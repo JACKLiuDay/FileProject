@@ -6,7 +6,7 @@ https://maverickpeter.github.io/2022/03/15/GEM-tutorial/ 原版GEM git地址与�
 
 代码流程：
 
-<img src="/home/tuboshu/.config/Typora/typora-user-images/codeflow.png" alt="image-20221213155256384" style="zoom: 200%;" />
+![image](https://github.com/JACKLiuDay/FileProject/tree/master/figure)
 
 - **Notes:** 
 
